@@ -15,7 +15,7 @@ while True:
     else:
         b=x
         fb=f(x)
-    if 0.01 > abs((b-a)/x):
+    if 0.00001 > abs(f(x)):
         break
 
 print(f(x),x)
