@@ -8,7 +8,7 @@ fa=f(a)
 fb=f(b)
 
 while True:
-    x = (a+b)/2
+    x = a-(fa*(b-a)/(fb-fa))
     if f(x)*fa>0:
         a=x
         fa=f(x)
