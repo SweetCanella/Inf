@@ -1,4 +1,4 @@
 # Yosha
 ![tag](https://github.com/SweetCanella/Inf/blob/main/cat)
 
-я люблю своего кота анонимно
+я люблю своего кота, анонимно
