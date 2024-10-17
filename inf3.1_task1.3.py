@@ -6,6 +6,7 @@ def f(x):
 a = int(input())
 b = int(input())
 h = int(input())
-for x in range(a,b+1,h):
+x=a
+for x in range(a,b+1,h*x):
     print(f(x))
 #неправильно считает??
